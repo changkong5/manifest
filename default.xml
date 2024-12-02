@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="git@github.com:changkong5"/>
+ 
+  <default revision="master" remote="origin" sync-j="4" />
+  <project name="zygote.git" path="zygote" revision="master" />
+  <project name="fs_super_dbus.git" path="fs_super_dbus" revision="master"/>
+  <project name="fs_super_dbus_lo.git" path="fs_super_dbus_lo" revision="master"/>
+ 
+</manifest>
+
+
+
+
+
+
